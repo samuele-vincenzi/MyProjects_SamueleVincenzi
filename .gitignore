@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ===== MATLAB / Simulink =====
+*.asv
+*.m~
+*.slxc
+*.slxp
+*.mex*
+slprj/
+autosave/
+*_autosave.m
+*.slx
+*.mdl
+*.sldd
+rtw/
